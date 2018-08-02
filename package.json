@@ -1,5 +1,5 @@
 {
-  "name": "netease-sms",
+  "name": "sms-netease",
   "version": "1.0.0",
   "description": "sms in netease for nodejs,网易云信短信发送模块.",
   "main": "index.js",
