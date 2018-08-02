@@ -8,7 +8,7 @@
 
 ```Javascript
 //具体实例请参考test/test.sms.js
-var sms = require('netease-sms');
+var sms = require('sms-netease');
 sms.send({ templateid: '1111111', mobiles: ['12345678901'], params: ['xx12sa中问文助理xls'] }, appkey, appsecret).then(function(d){
     console.log('------------------data------------------');
     console.log(d);
