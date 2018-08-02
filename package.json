@@ -1,0 +1,32 @@
+{
+  "name": "netease-sms",
+  "version": "1.0.0",
+  "description": "sms in netease for nodejs,网易云信短信发送模块.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockedpanda/netease-sms.git"
+  },
+  "keywords": [
+    "sms",
+    "netease",
+    "网易云信",
+    "短信"
+  ],
+  "author": "rockedpanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockedpanda/netease-sms/issues"
+  },
+  "homepage": "https://github.com/rockedpanda/netease-sms#readme"
+}
